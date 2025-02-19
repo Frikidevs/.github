@@ -17,5 +17,3 @@ We're a bunch of code enthusiasts who believe in the power of "Ctrl+C" and "Ctrl
 
 Remember, at Fikidevs, we're not just building software; we're building character (and a lot of patience).
 
-```
-````
